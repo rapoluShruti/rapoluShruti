@@ -40,7 +40,7 @@
 🔹 AI-powered career assistant with personalized learning paths.  
 🔹 ATS-optimized resumes, real-time interview prep, and skill tracking.  
 
-### 💰 [FinAI](https://github.com/rapoluShruti/FinAI)  
+### 💰 [FinAI](https://ai-finance-jume.vercel.app/)  
 🔹 AI-powered finance assistant for expense tracking and financial optimization.  
 🔹 Smart alerts, automated reports, and spending insights.  
 
@@ -48,7 +48,6 @@
 
 ## 🏆 Achievements
 - **Solved 200+ problems** on LeetCode (Data Structures & Algorithms).  
-- **Winner at AdShow (Product Marketing)** – Created and pitched a successful product strategy.  
 - **Women Techmakers Member** – Supporting women in tech through resources and mentorship.  
 - **Google Cloud Innovator** – Exploring cloud technologies and innovative solutions.  
 
@@ -56,7 +55,6 @@
 
 ## 📫 Connect with Me
 📩 **Email:** [shrutirapolu9@gmail.com](mailto:shrutirapolu9@gmail.com)  
-🌐 **Portfolio:** [xprilion.com](https://xprilion.com)  
 💼 **LinkedIn:** [linkedin.com/in/shrutirapolu](https://www.linkedin.com/in/shrutirapolu)  
 🐱 **GitHub:** [github.com/rapoluShruti](https://github.com/rapoluShruti)  
 🖥️ **LeetCode:** [leetcode.com/shrutirapolu](https://leetcode.com/shrutirapolu)  
