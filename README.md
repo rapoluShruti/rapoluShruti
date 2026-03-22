@@ -4,7 +4,7 @@
 I’m a full-stack web developer passionate about building **end-to-end web applications**.  
 I enjoy working with **MERN stack**, creating interactive UIs, and solving real-world problems with clean code.
 
-- 🔭 Currently working on [Nirmaan Frontend](https://nirmaan-frontend.vercel.app/)  
+- 🔭 Currently working on ECOharvest
 - 🌱 Learning advanced **DSA** and **competitive programming**  
 - 👯 Looking to collaborate on **web apps and open-source projects**  
 - 💬 Ask me about **React, Node.js, Express, MongoDB, or Web Development**  
@@ -29,14 +29,14 @@ I enjoy working with **MERN stack**, creating interactive UIs, and solving real-
 |---------|-------------|------|
 | **Nirmaan Frontend** | Full MERN web app with auth, admin panel, and persistent cart | [Live Demo](https://nirmaan-frontend.vercel.app/) |
 | **ArtVPP New** | Interactive art showcase platform | [Live Demo](https://vercel.com/rapolushrutis-projects/artvpp-new) |
-| **[Your Repo 3]** | Brief description here | [GitHub](https://github.com/your-username/your-repo3) |
+| **Stocksathi** | Brief description here | [GitHub](https://github.com/rapoluShruti/inventory-backend) |
 
 ---
 
 ## 📫 Connect with Me
 - GitHub: [https://github.com/rapolushruti](https://github.com/rapolushruti)  
-- LinkedIn: [https://linkedin.com/in/rapolushruti](https://linkedin.com/in/rapolushruti)  
-- Portfolio: [https://rapolushruti.github.io](https://rapolushruti.github.io)
+- LinkedIn: [https://linkedin.com/in/rapolushruti](https://www.linkedin.com/in/shruti-rapolu)  
+
 
 ---
 
