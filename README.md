@@ -35,7 +35,7 @@ I enjoy working with **MERN stack**, creating interactive UIs, and solving real-
 
 ## 📫 Connect with Me
 - GitHub: [https://github.com/rapolushruti](https://github.com/rapolushruti)  
-- LinkedIn: [https://linkedin.com/in/rapolushruti](https://www.linkedin.com/in/shruti-rapolu)  
+- LinkedIn: [https://www.linkedin.com/in/shruti-rapolu](https://www.linkedin.com/in/shruti-rapolu)  
 
 
 ---
