@@ -27,9 +27,9 @@ I enjoy working with **MERN stack**, creating interactive UIs, and solving real-
 
 | Project | Description | Link |
 |---------|-------------|------|
-| **Nirmaan Frontend** | Full MERN web app with auth, admin panel, and persistent cart | [Live Demo](https://nirmaan-frontend.vercel.app/) |
-| **ArtVPP New** | Interactive art showcase platform | [Live Demo](https://vercel.com/rapolushrutis-projects/artvpp-new) |
-| **Stocksathi** | Brief description here | [GitHub](https://github.com/rapoluShruti/inventory-backend) |
+| **Nirmaan Frontend** | Built an offline-first construction management platform using hybrid sync, reducing decision-making time from hours to minutes. | [Live Demo](https://nirmaan-frontend.vercel.app/) |
+| **ArtVPP New** | Developed an art marketplace for students and professionals to sell artwork and manage custom orders, improving accessibility and order workflow. | [Live Demo](https://vercel.com/rapolushrutis-projects/artvpp-new) |
+| **Stocksathi** |Built a stock analysis platform providing data-driven insights and recommendations using real-time market data and predictive models. | [GitHub](https://github.com/rapoluShruti/inventory-backend) |
 
 ---
 
